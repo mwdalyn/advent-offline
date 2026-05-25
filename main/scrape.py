@@ -1,6 +1,8 @@
 """
 This was a file to scrape in bulk all inputs and puzzle premises for past years.
 Wanted to take it offline. Should only be run once. Pauses are built in. 
+
+TODO: Need to rework to account for project restructuring.
 """
 import os, re, time, requests
 import numpy as np
