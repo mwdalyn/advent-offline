@@ -1,6 +1,7 @@
 ### Project-specific .gitignore
 *id.txt
 *key.txt
+issues.txt
 2019/
 2020/
 2021/
